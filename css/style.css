@@ -1,3 +1,7 @@
+h2 {
+    font-size: 1rem;
+}
+
 .ms_bg-dark-aqua {
     background-color: #1abc9c;
 }
@@ -12,6 +16,10 @@
         font-size: 3rem;
     }
 
+    h2 {
+        font-size: 1.2rem;
+    }
+
     .ms_hr-style {
         border-width: 4px;
     }
@@ -20,6 +28,10 @@
 @media screen and (min-width: 992px) {
     h1 {
         font-size: 5rem;
+    }
+
+    h2 {
+        font-size: 2rem;
     }
 
     .ms_hr-style {
