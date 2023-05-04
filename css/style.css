@@ -27,8 +27,12 @@ h3 {
 }
 
 .ms_hr-style {
-    border-width: 3px;
+    border-width: 4px;
     opacity: 1;
+}
+
+.ms_mw-500px {
+    max-width: 500px;
 }
 
 @media screen and (min-width: 768px) {
@@ -46,10 +50,6 @@ h3 {
 
     p {
         font-size: 1.1rem;
-    }
-
-    .ms_hr-style {
-        border-width: 4px;
     }
 }
 
