@@ -6,6 +6,14 @@ h3 {
     font-size: 1rem;
 }
 
+footer i {
+    transition: background-color .5s;
+}
+
+footer i:hover {
+    background-color: rgb(26, 188, 156, 0.5);
+}
+
 .ms_bg-dark-aqua {
     background-color: #1abc9c;
 }
